@@ -434,7 +434,6 @@ def visualize(input_file, stride = 5):
     sx = settings['sx']
     sy = settings['sy']
     tcon = 3.33564
-    stride = 5
     comp_names = ["Ex", "Ey", "Ez"]
 
     #### Get E0 from cal file ####

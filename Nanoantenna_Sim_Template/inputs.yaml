@@ -1,0 +1,19 @@
+# Cell Parameters
+pml: 0.2 #um
+sx: 0.4 #um
+sy: 0.4 #um
+sz: 0.8 #um
+resolution: 100 #pixels/um
+
+#Output settings
+t_final: 30 #meep units (3.335fs/meep unit)
+lam: .8 #um
+df: 1.5 #1/um
+
+#Nanoantenna Geometry Settings
+thickness: 0.02 #um
+a: 0.11 #um
+b: 0.08 #um
+r_curvature: 0.01 #um
+
+

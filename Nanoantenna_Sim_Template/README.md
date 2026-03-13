@@ -1,5 +1,6 @@
 # Gold Nanoantenna Simulation
-##Overview
+
+## Overview
 
 This script simulates an optical pulse at normal incidence on a gold nanoantenna array. The field is polarized along the antennas altitude which for the purposes of this simulation is the x direction. The gold sits on a Si02 substrate. 
 
